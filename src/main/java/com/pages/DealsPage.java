@@ -10,7 +10,9 @@ public class DealsPage {
 		public DealsPage(){
 			this.driver=driver;
 		}
-
+		public void DealsPage1(){
+			this.driver=driver;
+		}
 	
 
 }
